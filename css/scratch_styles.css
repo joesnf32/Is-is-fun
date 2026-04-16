@@ -1,0 +1,31 @@
+body {
+    color: rgb(142, 79, 243);
+    background-color: rgb(23, 83, 151); 
+}
+
+p {
+    color:rgb(32, 216, 127)
+}
+
+
+.special_text{
+    color:rgb(83, 217, 235);
+    font-style: italic;
+}
+
+.bold-important-text{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(168, 90, 240);
+}
+    
+
+a:hover {
+    text-decoration: underline;
+    color:aquamarine
+
+}
+
+a:visited{
+    color:rgb(101, 229, 152)
+}
